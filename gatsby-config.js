@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Avijit `,
+    title: `Gatsby Anusree `,
     author: {
-      name: `Avijit Samanta`,
+      name: `Anusree Samanta`,
       summary: `who lives and works in India building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `AvijitS62916909`,
+      twitter: `AnusreeS62916909`,
     },
   },
   plugins: [
@@ -105,7 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Avijit  RSS Feed",
+            title: "Gatsby Anusree  RSS Feed",
           },
         ],
       },
@@ -113,7 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Avijit `,
+        name: `Gatsby Anusree `,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
